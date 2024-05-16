@@ -21,3 +21,5 @@ I'm looking for guidance on where/how to best start out this journey of moving f
 📫 How to reach me: codyguthrie@protonmail.com
 
 ⚡ Fun fact: Former "Drunk of the week" title holder, awarded by The Seattle Stranger newspaper. 
+
+My first module completion https://learn.microsoft.com/api/achievements/share/en-us/codyguthrie-0072/KLUKWDWB?sharingId=B32F78F35F9C6FAC 
