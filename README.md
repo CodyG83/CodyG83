@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently looking to change careers and figured I had better learn some basics of coding and using GitHub. 
+
+I'm looking for guidance on where/how to best start out this journey of moving from a construction backround to working behind a keyboard. 
+
+📫 How to reach me: codyguthrie@protonmail.com
+
+⚡ Fun fact: Former "Drunk of the week" title holder, awarded by The Seattle Stranger newspaper. 
